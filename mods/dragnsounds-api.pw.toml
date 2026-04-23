@@ -1,0 +1,13 @@
+name = "DragNSounds API"
+filename = "dragnsounds-fabric-1.20.1-alpha-0.2.2-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/apgVYbxQ/versions/zzDHDcA7/dragnsounds-fabric-1.20.1-alpha-0.2.2-1.jar"
+hash-format = "sha512"
+hash = "ed11cb38e9265bb174f807f7d8122ccb66efd069af6ee72eaed5da56c4a45d8a1c10c1d861fb62f7c4c46588c4936b78dd6a8be63f1e4ab8c5057cb7eb3c384b"
+
+[update]
+[update.modrinth]
+mod-id = "apgVYbxQ"
+version = "zzDHDcA7"
