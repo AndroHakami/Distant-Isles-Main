@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "imgbb.html"
+hash = "fabab1b1f52830dbfb37d06e01321d19e653492f52a852fc235f20d5200a68ce"
+
+[[files]]
 file = "mods/Chunky-1.3.146.jar"
 hash = "ae7fb9d35a3a9d9d4f2104aeae7b31a901c5e5842891e2edd9ddcc42c2646a38"
 
@@ -711,7 +715,7 @@ hash = "ae9af7e927ba4b2c273b1342621558240063bef050eb2b1d8a5020e75fef0e9c"
 
 [[files]]
 file = "overrides/config/fancymenu/customization/title_screen_layout_2.txt"
-hash = "fbb87dfe8f0e71a90a92b0681f935dfb6374fc7e28469f44cedd084cd4a82b9b"
+hash = "035fa2f617f64b801a609fb041d5fee1611555f5c91152413453967ed5c67c19"
 
 [[files]]
 file = "overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -11424,6 +11428,10 @@ hash = "46b6ce011f0d0e7706545740ef365fcd770d017e6f75963a72d16a2b03de7737"
 [[files]]
 file = "overrides/shaderpacks/miniature-shader-2.18.9.zip.txt"
 hash = "c21d8663f2b18d9597739db0483a5a9a83ab3aa0576509021268fcb9146f7261"
+
+[[files]]
+file = "temp_essential.txt"
+hash = "d96131bc03b01bfe187a0556e83afe80246c80f474786ff3bbda8a3dcc9226bb"
 
 [[files]]
 file = "test_download.jar"

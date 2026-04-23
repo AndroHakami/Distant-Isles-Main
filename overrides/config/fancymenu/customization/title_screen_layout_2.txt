@@ -13,7 +13,7 @@ layout-meta {
 }
 
 menu_background {
-  image_path = [source:web]https://ibb.co/MDzWVtsF
+  image_path = [source:web]https://i.ibb.co/XZnNsKbc/download.jpg
   slide = false
   repeat_texture = false
   parallax = false
