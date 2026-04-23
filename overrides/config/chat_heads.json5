@@ -1,0 +1,28 @@
+{
+	"renderPosition": "BEFORE_NAME",
+	"offsetNonPlayerText": true,
+	"senderDetection": "UUID_AND_HEURISTIC",
+	"smartHeuristics": true,
+	"handleSystemMessages": true,
+	"drawShadow": true,
+	"nameAliases": {
+		"seep_": "incapacitated!",
+		"MrCra": "incapacitated!",
+		"Crappito": "incapacitated!",
+		"Psytt": "incapacitated!",
+		"AvatredLib": "incapacitated!",
+		"_Floati": "incapacitated!",
+		"Nanime_Does": "incapacitated!",
+		"BlessedPath877": "incapacitated!",
+		"Heladesh": "incapacitated!",
+		"Puppy__Eli": "incapacitated!",
+		"silverexists": "incapacitated!",
+		"Silica": "incapacitated!",
+		"Yveseus": "incapacitated!",
+		"Creep1y": "incapacitated!",
+		"TheKrazyKoin": "incapacitated!",
+		"21Mocha": "incapacitated!",
+		"MoonGamerX": "incapacitated!",
+		"BESO1": "incapacitated!"
+	}
+}

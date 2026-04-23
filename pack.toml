@@ -1,0 +1,13 @@
+name = "The Distant Isles"
+author = "seep_"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "296d2077fd4587c7348cad1d6a06497bac6405c3f857ddab7df5850ca0f7f100"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.20.1"
