@@ -282,8 +282,8 @@ file = "mods/lexiconfig-fabric-1.4.18.jar"
 hash = "92b4303470e4ce5bf3324b2895b1ace0d00762d66a8537b0954b52ed33ab23e8"
 
 [[files]]
-file = "mods/libIPN-forge-1.20-4.0.2.jar"
-hash = "cb96fa15eddc74c243677f7f5b6e3ecaa87bb33f4854ae0353646f304058add6"
+file = "mods/libIPN-fabric-1.20-4.0.2.jar"
+hash = "3e75c8d8c32b2dfbf7bb1cdd91f5b0d30bb39eb43ecfcf1c25ca093409c1a606"
 
 [[files]]
 file = "mods/mcw-doors-1.1.2-mc1.20.1fabric.jar"
