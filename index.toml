@@ -246,6 +246,10 @@ file = "mods/identity-2.8.8-1.20.1-fabric.jar"
 hash = "f6698bbff74209513af6a26a5f8b0f0a2422549e433027cc4c709e2491ac9719"
 
 [[files]]
+file = "mods/immersive_paintings-0.6.8+1.20.1-fabric.jar"
+hash = "e3c6b53a71d26dfac2afcde97d9f6265c2625c6778fa1314fc22eff554a6ba80"
+
+[[files]]
 file = "mods/immersive_weathering-1.20.1-2.0.5-fabric.jar"
 hash = "03e3eda4de5920fae8eee24e273cbb027f2f79b69c3913e02bdd8d3ad1bb7dd8"
 
