@@ -346,8 +346,8 @@ file = "mods/musicsync-1.3+1.20.jar"
 hash = "4f7e49e65562a0b20be86bbc6584d850f13dfc67faf479819bdaf5dd9242ce5e"
 
 [[files]]
-file = "mods/odd-1.1.2-1.20.1.jar"
-hash = "d5d53c47ca1d28ec64045d75ab3737eef6f780c37d024b3b0a2f27b1652d20fe"
+file = "mods/odd-1.1.3-1.20.1.jar"
+hash = "19008d653a4881a2f0cefb7fa8c7ad3dde3ba50fd94ae8b78867d523e3f9aa83"
 
 [[files]]
 file = "mods/player-animation-lib-fabric-1.0.2-rc1+1.20.jar.disabled"
